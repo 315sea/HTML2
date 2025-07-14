@@ -1,0 +1,49 @@
+.head1{
+    color: rgb(250, 248, 248);
+    background-color: rgb(99, 78, 78);
+    margin-top: 0%;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+.head2{
+    background-color: aquamarine;
+    position:fixed;
+   top: 30px;
+   left: 0;
+   bottom: 0px;
+   margin-bottom: 0%;
+}
+.body{
+margin-top: 120px;
+margin-left: 90px;
+}
+
+.test1{
+display: grid;
+grid-template-columns: 300px 300px 300px 300px;
+height: 300px;
+margin-left: 90px;
+margin-top:15px;
+}
+
+.test2{
+display: flex;
+margin-top: 10px;
+justify-content: space-between;
+}
+
+.pardiv1{
+margin-top: 0px;
+margin-left: 100px;
+}
+
+.pardiv2{
+margin-top: 0px;
+margin-left: 100px;
+}
+
+.information{
+    
+}
